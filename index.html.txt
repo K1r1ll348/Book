@@ -1,0 +1,23 @@
+<link rel="stylesheet" href="style.css">
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Картка книги</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="book-card">
+        <img class="book-cover" src="https://images.unsplash.com/photo-1543002588-bfa74002ed7e?w=500&auto=format&fit=crop&q=60" alt="Обкладинка">
+        <div class="book-title">Гаррі Поттер</div>
+        <div class="book-author">Дж. К. Ролінґ</div>
+        <p class="book-description">
+            Захоплива історія про хлопчика-чарівника, який дізнається про свій магічний дар та вирушає навчитися магії до знаменитої школи Гоґвортс.
+        </p>
+        <a href="#">Детальніше</a>
+    </div>
+
+</body>
+</html>
